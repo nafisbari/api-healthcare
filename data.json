@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Pathology Clinic",
+        "description2": "Pathology is the study of disease. It is the bridge between science and medicine. It underpins every aspect of patient care, from diagnostic testing and treatment advice to using cutting-edge genetic technologies and preventing disease.",
+        "description1": "For people requiring additional follow up, the Cardiac Clinic provides rapid access to professionals specialized in diagnosing and treating heart disease.",
+        "li1": "Sergical Pathology",
+        "li2": "Histopathology",
+        "li3": "CytoPathology",
+        "icon": "./Images/Pathology.png",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "title": "Cardiology Clinic",
+        "description2": "Cardiology is the study of disease. It is the bridge between science and medicine. It underpins every aspect of patient care, from diagnostic testing and treatment advice to using cutting-edge genetic technologies and preventing disease.",
+        "description1": "All cardiologists study the disorders of the heart, but the study of adult and child heart disorders are trained to take care of small children and adult heart disease.",
+        "li1": "Macular degeneration",
+        "li2": "Diabetic retinopathy",
+        "li3": "Excessive tearing",
+        "icon": "./Images/Cardiology.png",
+        "img": ""
+    },
+    {
+        "id": 3,
+        "title": "Neurological Clinic",
+        "description2": "",
+        "description1": "Some neurologists receive subspecialty training focusing on a particular area of the fields, these training programs are called fellowships, and are one to two years.",
+        "li1": "Neurocritical Care",
+        "li2": "Neuro Oncology",
+        "li3": "Geriatric Neurology",
+        "icon": "./Images/Neurology.png",
+        "img": ""
+    },
+    {
+        "id": 4,
+        "title": "Pediatric Clinic",
+        "description2": "Pathology is the study of disease. It is the bridge between science and medicine. It underpins every aspect of patient care, from diagnostic testing and treatment advice to using cutting-edge genetic technologies and preventing disease.",
+        "description1": "Pediatric providers see patient form birth to early adulthood to make sure the patient stay healthy. Our care includes preventive health checkups",
+        "li1": "New Born Care",
+        "li2": "Repositioning Techniques",
+        "li3": "Umbilical Cord Appearance",
+        "icon": "./Images/Pedi.png",
+        "img": ""
+    },
+    {
+        "id": 5,
+        "title": "Laboratory Analysis",
+        "description2": "Pathology is the study of disease. It is the bridge between science and medicine. It underpins every aspect of patient care, from diagnostic testing and treatment advice to using cutting-edge genetic technologies and preventing disease.",
+        "description1": "Analyzing the radon or radon progeny concentrations with passive devices, or the act of calibrating radon or radon progeny measurement devices.",
+        "li1": "Clinical Laboratory",
+        "li2": "Reasearch Analyst",
+        "li3": "Quality Assurance",
+        "icon": "./Images/Lab.png",
+        "img": ""
+    },
+    {
+        "id": 6,
+        "title": "Cardiac Clinic",
+        "description2": "Cardiology is the study of disease. It is the bridge between science and medicine. It underpins every aspect of patient care, from diagnostic testing and treatment advice to using cutting-edge genetic technologies and preventing disease.",
+        "description1": "For people requiring additional follow up, the Cardiac Clinic provides rapid access to professionals specialized in diagnosing and treating heart disease.",
+        "li1": "Cardiac Care Unit",
+        "li2": "Intensive Care Unit",
+        "li3": "24x7 on Call Doctors",
+        "icon": "./Images/Cardiac.png",
+        "img": ""
+    }
+]
